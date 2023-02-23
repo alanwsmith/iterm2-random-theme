@@ -1,0 +1,5 @@
+#!/bin/bash
+
+ln -s \
+  "/Users/alan/workshop/iterm2-random-theme/switch-to-random-theme.py" \
+  "/Users/alan/Library/Application Support/iTerm2/Scripts/AutoLaunch/"
